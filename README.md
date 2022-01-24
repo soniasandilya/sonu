@@ -1,6 +1,3 @@
-fdfnnv
-mkfkfdvnf
-mknknklff
-this is first trigger
-second trigger
-fourth trigger
+
+my first commit
+my second commit
